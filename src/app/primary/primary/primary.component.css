@@ -1,0 +1,20 @@
+#header
+{
+    background-color:black;
+    padding-left: 35%;
+}
+#body
+{
+    margin-top: 20px;
+    height:450px;
+}
+#footer
+{
+    margin-top:20px;
+    height:136px;
+    background-color:black;
+}
+a
+{
+    color:white;
+}

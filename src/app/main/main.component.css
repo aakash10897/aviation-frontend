@@ -1,0 +1,24 @@
+#div1 
+{
+    background-image: url('bg/background.jpg');
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+} 
+h1{
+    opacity: 1;
+    color: white;
+}
+#div2
+{
+    padding-top:15%;
+}
+
+
+#btn1{
+    font-size:40px;
+}
+
+
